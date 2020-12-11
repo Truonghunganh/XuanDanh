@@ -1,0 +1,45 @@
+﻿{
+   "ContextClassName": "Sinhvien_BTContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "EF",
+   "ProjectRootNamespace": "BaiTap_CShap",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Diem_HP]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[HocPhan]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Khoa]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[SinhVien]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[User]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNodaTime": false,
+   "UseSpatial": false,
+   "UseStoredProcedures": false
+}
